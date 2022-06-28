@@ -7,14 +7,14 @@
 }
 
 .twosidedboxtwo{
-    background-image: url(/PhoneBook/boxtworep.jpg);
+    background-image: url(/boxtworep.jpg);
     background-position: fixed;
     background-size: contain;
     background-repeat: no-repeat;
 }
 
 .twosidedboxone{
-    background-image: url(/PhoneBook/card\ one\ img.jpg);
+    background-image: url(/card\ one\ img.jpg);
     background-position: fixed;
     background-size: contain;
     background-repeat: no-repeat;
