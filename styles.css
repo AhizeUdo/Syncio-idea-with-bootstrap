@@ -1,0 +1,21 @@
+.mainpacket{
+    background-image:linear-gradient(white, rgb(188, 207, 255), white, white)
+}
+
+.twosidedboxonecont {
+    border-radius: 30px;
+}
+
+.twosidedboxtwo{
+    background-image: url(/PhoneBook/boxtworep.jpg);
+    background-position: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.twosidedboxone{
+    background-image: url(/PhoneBook/card\ one\ img.jpg);
+    background-position: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
